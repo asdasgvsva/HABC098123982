@@ -27,8 +27,8 @@ export default function Hero() {
           {/* Left: Text Content */}
           <div className="space-y-8 md:space-y-10 text-center md:text-left animate-slide-up">
             <h1 className="text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-black leading-[1.1] tracking-tight">
-              <span className="block mb-2">데이터와 현장을</span>
-              <span className="block mb-2">아는</span>
+              <span className="block mb-2">데이터와 </span>
+              <span className="block mb-2">현장을 아는</span>
               <span className="block bg-gradient-to-r from-neon-accent via-blue-accent to-neon-accent bg-clip-text text-transparent animate-gradient">
                 제조 AI 파트너
               </span>
