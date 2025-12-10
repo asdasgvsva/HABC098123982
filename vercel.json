@@ -1,4 +1,8 @@
 {
-  "name": "manufacturing-ai-studio"
+  "version": 2,
+  "name": "manufacturing-ai-studio",
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "framework": "nextjs"
 }
 
